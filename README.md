@@ -24,18 +24,14 @@ Before moving into software development, I worked as a **Physics teacher** in In
 - Critical Thinking and Problem Solving  
 - Adaptability and Time Management  
 
-![Coding Skills](assets/images/codingskills.png)
+<p align="center">
+  <img src="assets/images/codingskills.png" alt="Coding Skills" width="800">
+</p>
 
 ---
+## 🌱 My Learning Journey  
+As a beginner in software development, I have started learning **HTML**, **CSS**, and **JavaScript**. Creating my first GitHub repository has been an exciting step that helps me track my progress and understand how developers save and share their work. I plan to keep practicing regularly, building small projects, and exploring more advanced tools and languages as I grow in this field.  
 
-##  GitHub Stats  
-
-As a beginner in software development, I have recently started exploring **Java**, **HTML**, and **CSS**. Creating my first GitHub repository has helped me understand how developers use Git and GitHub to save, track, and collaborate on projects. I’m gradually learning how version control supports teamwork and keeps code organized.  
-
-These stats represent my first steps as a developer — every small commit shows my progress as I learn new tools and languages. I’m excited to continue building projects, improving my skills, and contributing to open-source in the future.  
-
-![Daljit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaljitKaur08&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github)  
-![GitHub Streak](https://streak-stats.demolab.com?user=DaljitKaur08&theme=tokyonight&hide_border=false)
 
 ---
 
