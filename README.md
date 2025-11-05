@@ -29,15 +29,15 @@ Before moving into software development, I worked as a **Physics teacher** in In
 </p>
 
 ---
-## 🌱 My Learning Journey  
+##  My Learning Journey  
 As a beginner in software development, I have started learning **HTML**, **CSS**, and **JavaScript**. Creating my first GitHub repository has been an exciting step that helps me track my progress and understand how developers save and share their work. I plan to keep practicing regularly, building small projects, and exploring more advanced tools and languages as I grow in this field.  
 
 
 ---
 
 ##  Connect With Me  
-📧 **Email:** [saini26daljit@gmail.com](mailto:saini26daljit@gmail.com)  
-💻 **GitHub:** [DaljitKaur08](https://github.com/DaljitKaur08)  
+**Email:** [saini26daljit@gmail.com](mailto:saini26daljit@gmail.com)  
+ **GitHub:** [DaljitKaur08](https://github.com/DaljitKaur08)  
 
 ---
 
