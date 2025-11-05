@@ -1,6 +1,8 @@
 ![Profile Banner](assets/images/banner.png)
 
 *“Every challenge is a learning opportunity — with consistency and a positive attitude, growth is always possible.”*
+---
+
 #  Welcome to My GitHub Profile  
 
 ##  About Me  
@@ -32,6 +34,14 @@ Before moving into software development, I worked as a **Physics teacher** in In
 ##  My Learning Journey  
 As a beginner in software development, I have started learning **HTML**, **CSS**, and **JavaScript**. Creating my first GitHub repository has been an exciting step that helps me track my progress and understand how developers save and share their work. I plan to keep practicing regularly, building small projects, and exploring more advanced tools and languages as I grow in this field.  
 
+---
+## Statistics
+
+The statistics below show my GitHub activity and growth as I continue practicing and uploading new projects. They represent my current learning journey and reflect my effort to stay consistent with coding practice and project development.
+
+![Daljit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaljitKaur08&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DaljitKaur08&theme=tokyonight&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaljitKaur08&layout=compact&theme=tokyonight)
 
 ---
 
