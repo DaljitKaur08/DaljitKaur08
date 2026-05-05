@@ -38,12 +38,6 @@ As a beginner in software development, I have started learning **HTML**, **CSS**
 
 ---
 
-## Statistics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaljitKaur08&show_icons=true&theme=gotham" alt="DaljitKaur08's GitHub Stats" />
-</p>
-
 ---
 
 ## Connect With Me  
