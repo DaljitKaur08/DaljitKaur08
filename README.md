@@ -26,12 +26,11 @@ Software Developer student at the Manitoba Institute of Trades and Technology (M
 - Responsive Design
 
 ---
-
 ## 📊 Top Languages
 
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaljitKaur08&layout=compact&theme=default)
+- HTML
+- CSS
+- JavaScript
 ---
 
 ## 📌 Featured Projects
