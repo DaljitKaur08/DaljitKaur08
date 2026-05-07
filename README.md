@@ -1,6 +1,7 @@
 ![Profile Banner](assets/images/banner.png)
 
 *“Every challenge is a learning opportunity — with consistency and a positive attitude, growth is always possible.”*
+
 # Hi, I'm Daljit Kaur 👋
 
 Software Developer student at the Manitoba Institute of Trades and Technology (MITT) with a background in Applied Business Management from the University of Manitoba. Passionate about front-end web development, interactive applications, and creating user-friendly web experiences using HTML, CSS, and JavaScript.
@@ -23,6 +24,12 @@ Software Developer student at the Manitoba Institute of Trades and Technology (M
 - Git & GitHub
 - GitHub Pages
 - Responsive Design
+
+---
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaljitKaur08&layout=compact)
 
 ---
 
@@ -53,6 +60,7 @@ https://daljitkaur08.github.io/kaur_daljit_cookies_assignment01/
 ---
 
 ## 💡 Skills
+
 ### Technical Skills
 - HTML
 - CSS
@@ -72,6 +80,7 @@ https://daljitkaur08.github.io/kaur_daljit_cookies_assignment01/
 ---
 
 ## 🔗 Connect With Me
+
 LinkedIn:  
 https://www.linkedin.com/in/daljit-kaur-mitt/
 
@@ -80,3 +89,7 @@ https://github.com/DaljitKaur08
 
 Email:  
 saini26daljit@gmail.com
+
+
+
+
