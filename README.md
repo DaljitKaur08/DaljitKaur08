@@ -1,47 +1,82 @@
 ![Profile Banner](assets/images/banner.png)
 
 *“Every challenge is a learning opportunity — with consistency and a positive attitude, growth is always possible.”*
+# Hi, I'm Daljit Kaur 👋
+
+Software Developer student at the Manitoba Institute of Trades and Technology (MITT) with a background in Applied Business Management from the University of Manitoba. Passionate about front-end web development, interactive applications, and creating user-friendly web experiences using HTML, CSS, and JavaScript.
 
 ---
 
-# Welcome to My GitHub Profile  
-
-## About Me  
-Hello, my name is **Daljit Kaur**, a passionate and dedicated **Software Developer student** at the **Manitoba Institute of Trades and Technology (MITT)** in Winnipeg, Canada. I have always been curious about how technology works and how it can make everyday life easier. At MITT, I’m developing strong skills in programming, version control, and software design through a hands-on and organized approach. Before starting my Software Developer program, I studied **Applied Business Management (ABM)** at the **University of Manitoba**, where I learned the value of discipline, research, and continuous learning.  
-
-Before moving into software development, I worked as a **Physics teacher** in India. That experience built my confidence in leadership, teamwork, and communication, and taught me to explain complex ideas in simple ways — a skill that now helps me debug code and collaborate effectively. I’m passionate about **coding and problem-solving**, especially when building creative projects that combine logic, design, and innovation. Learning new tools such as **Git**, **GitHub**, and **VS Code** has shown me how organization and collaboration play a major role in real-world development. My goal is to become a **professional Software or Web Developer in Canada** and contribute to building applications that make people’s lives better.  
-
----
-
-## Skills  
-
-### Programming & Web Development  
-- HTML5, CSS, JavaScript  
-- Command Line Interface (CLI)  
-- Git and GitHub Version Control  
-- Responsive Web Design  
-
-### Soft Skills  
-- Teamwork and Collaboration  
-- Communication and Leadership  
-- Critical Thinking and Problem Solving  
-- Adaptability and Time Management  
-
-<p align="center">
-  <img src="assets/images/codingskills.png" alt="Coding Skills" width="800">
-</p>
+## 👩‍💻 Technical Interests
+- Front-End Web Development
+- Responsive Web Design
+- JavaScript Projects
+- APIs and Real-Time Tracking
+- Interactive Educational Applications
 
 ---
 
-## My Learning Journey  
-As a beginner in software development, I have started learning **HTML**, **CSS**, and **JavaScript**. Creating my first GitHub repository has been an exciting step that helps me track my progress and understand how developers save and share their work. I plan to keep practicing regularly, building small projects, and exploring more advanced tools and languages as I grow in this field.  
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- GitHub Pages
+- Responsive Design
 
 ---
 
+## 📌 Featured Projects
+
+### Rutherford Gold Foil Experiment Simulation
+Interactive educational simulation demonstrating alpha particle scattering and atomic structure concepts using HTML, CSS, and JavaScript.
+
+🔗 Live Demo:  
+https://daljitkaur08.github.io/rutherford-simulation/
+
 ---
 
-## Connect With Me  
-**Email:** [saini26daljit@gmail.com](mailto:saini26daljit@gmail.com)  
-**GitHub:** [DaljitKaur08](https://github.com/DaljitKaur08)
+### PrimeCab GPS Tracking App
+Real-time GPS tracking web application using Geolocation API and MapBox API to display live user location updates.
+
+🔗 Live Demo:  
+https://daljitkaur08.github.io/ASSIGNMENT4daljitkaur/
 
 ---
+
+### Cookie Management System
+Browser-based cookie consent and preference management system with customizable settings and responsive design.
+
+🔗 Live Demo:  
+https://daljitkaur08.github.io/kaur_daljit_cookies_assignment01/
+
+---
+
+## 💡 Skills
+### Technical Skills
+- HTML
+- CSS
+- JavaScript
+- APIs
+- DOM Manipulation
+- Responsive Web Design
+- GitHub
+
+### Soft Skills
+- Communication
+- Teamwork
+- Problem Solving
+- Time Management
+- Adaptability
+
+---
+
+## 🔗 Connect With Me
+LinkedIn:  
+https://www.linkedin.com/in/daljit-kaur-mitt/
+
+GitHub:  
+https://github.com/DaljitKaur08
+
+Email:  
+saini26daljit@gmail.com
