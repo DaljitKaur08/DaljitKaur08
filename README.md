@@ -2,13 +2,13 @@
 
 *“Every challenge is a learning opportunity — with consistency and a positive attitude, growth is always possible.”*
 
-# Hi, I'm Daljit Kaur 👋
+# Hi, I'm Daljit Kaur 
 
 Software Developer student at the Manitoba Institute of Trades and Technology (MITT) with a background in Applied Business Management from the University of Manitoba. Passionate about front-end web development, interactive applications, and creating user-friendly web experiences using HTML, CSS, and JavaScript.
 
 ---
 
-## 👩‍💻 Technical Interests
+##  Technical Interests
 - Front-End Web Development
 - Responsive Web Design
 - JavaScript Projects
@@ -17,7 +17,7 @@ Software Developer student at the Manitoba Institute of Trades and Technology (M
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - HTML5
 - CSS3
 - JavaScript
@@ -26,14 +26,14 @@ Software Developer student at the Manitoba Institute of Trades and Technology (M
 - Responsive Design
 
 ---
-## 📊 Top Languages
+##  Top Languages
 
 - HTML
 - CSS
 - JavaScript
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### Rutherford Gold Foil Experiment Simulation
 Interactive educational simulation demonstrating alpha particle scattering and atomic structure concepts using HTML, CSS, and JavaScript.
@@ -59,7 +59,7 @@ https://daljitkaur08.github.io/kaur_daljit_cookies_assignment01/
 
 ---
 
-## 💡 Skills
+##  Skills
 
 ### Technical Skills
 - HTML
@@ -79,7 +79,7 @@ https://daljitkaur08.github.io/kaur_daljit_cookies_assignment01/
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 LinkedIn:  
 https://www.linkedin.com/in/daljit-kaur-mitt/
